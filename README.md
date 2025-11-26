@@ -7,29 +7,48 @@ Me encanta resolver problemas complejos y seguir aprendiendo mientras colaboro e
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:**  
-Java · JavaScript · TypeScript · PHP · Python  
+Frontend
+Angular
+HTML5, CSS3, SCSS
+TypeScript, JavaScript
 
-**Frameworks & Librerías:**  
-Spring Boot · Angular · CodeIgniter · Django  
+Backend
+Java con Spring Boot
+PHP con CodeIgniter
+Python con Django
 
-**Bases de Datos:**  
-MySQL · Oracle SQL  
+Bases de Datos
+MySQL
+PostgreSQL
+Oracle SQL
 
-**Control de Versiones:**  
-Git · GitHub  
+DevOps / Infraestructura
+Docker & Docker Compose
+AWS (EC2, RDS, ECR)
+Caddy (reverse proxy)
+Nginx (servidor web y despliegue frontend)
+
+Control de Versiones
+Git
+GitHub  
 
 ---
 
-## 💼 Proyecto Destacado: *Full-Stack para negocio musical*  
-📌 *En proceso de finalización*  
+##💼 Proyecto Destacado: Full-Stack para negocio musical
 
-Un proyecto **full-stack** con **Angular** (frontend) y **Spring Boot** (backend) para una tienda musical.  
-Incluye:  
-✔️ Autenticación JWT  
-✔️ Visualización en mapas  
-✔️ Gestión de productos y usuarios  
-Y más...
+📌 Proyecto completado y desplegado en producción
+Desarrollo de una aplicación full-stack para una tienda musical, con Angular en el frontend y Spring Boot en el backend.
+El proyecto está totalmente funcional, desplegado con Docker y AWS, y cuenta con:
+
+✔️ Autenticación segura con JWT
+✔️ Visualización de tiendas en mapa interactivo
+✔️ Gestión completa de productos, usuarios y pedidos
+✔️ Chat de soporte en tiempo real
+✔️ Emails automáticos
+✔️ Panel de administración y área privada
+✔️ API REST documentada y arquitectura profesional
+
+Proyecto: [nuevo.juliovera.es](https://nuevo.juliovera.es)
 ---
 
 ## 🎯 Objetivos
