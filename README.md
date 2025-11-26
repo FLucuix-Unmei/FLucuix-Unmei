@@ -1,81 +1,70 @@
-👋 ¡Hola! Soy Fran Lucuix | Full-Stack Developer (Junior)
+# 👋 ¡Hola! Soy **Fran Lucuix** | Full-Stack Developer (Junior)
 
-Soy un desarrollador junior apasionado por el backend, especialmente con Java y Spring Boot, aunque también disfruto trabajando en frontend y explorando nuevas tecnologías.
+Soy un desarrollador **junior** apasionado por el **backend**, especialmente con **Java y Spring Boot**, aunque también disfruto trabajando en frontend y explorando nuevas tecnologías.  
 Me encanta resolver problemas, aprender rápido y participar en proyectos desafiantes. 🚀
 
-🛠️ Tecnologías
-Frontend
+---
 
-Angular
+## 🛠️ Tecnologías
 
-HTML5, CSS3, SCSS
+### Frontend
+- Angular  
+- HTML5, CSS3, SCSS  
+- TypeScript, JavaScript  
 
-TypeScript, JavaScript
+### Backend
+- Java con Spring Boot  
+- PHP con CodeIgniter  
+- Python con Django  
 
-Backend
+### Bases de Datos
+- MySQL  
+- PostgreSQL  
+- Oracle SQL  
 
-Java con Spring Boot
+### DevOps / Infraestructura
+- Docker & Docker Compose  
+- AWS (EC2, RDS, ECR)  
+- Caddy (reverse proxy)  
+- Nginx (servidor web / despliegue frontend)  
 
-PHP con CodeIgniter
+### Control de Versiones
+- Git  
+- GitHub  
 
-Python con Django
+---
 
-Bases de Datos
+## 💼 Proyecto Destacado: **Full-Stack para negocio musical**
 
-MySQL
+📌 **Proyecto completado y desplegado en producción**  
 
-PostgreSQL
+Desarrollo de una **aplicación full-stack** para una tienda musical, con **Angular** en el frontend y **Spring Boot** en el backend.  
+El proyecto está completamente funcional y desplegado usando **Docker + AWS**, e incluye:
 
-Oracle SQL
+- ✔️ Autenticación segura con JWT  
+- ✔️ Visualización de tiendas en un mapa interactivo  
+- ✔️ Gestión completa de productos, usuarios y pedidos  
+- ✔️ Chat de soporte en tiempo real (WebSockets + STOMP)  
+- ✔️ Envío de emails automáticos  
+- ✔️ Panel de administración y área privada de usuario  
+- ✔️ API REST documentada y arquitectura profesional  
 
-DevOps / Infraestructura
+🔗 **Proyecto en producción:** [https://nuevo.juliovera.es](https://nuevo.juliovera.es)  
 
-Docker & Docker Compose
+---
 
-AWS (EC2, RDS, ECR)
+## 🎯 Objetivos
 
-Caddy (reverse proxy)
+Mi enfoque principal está en **Java y Spring Boot**, pero también me motiva seguir ampliando mis conocimientos en backend, arquitecturas modernas, testing y buenas prácticas.  
+Mi objetivo es crecer como **backend developer** y aportar valor real en equipos de desarrollo.
 
-Nginx (servidor web / despliegue frontend)
+---
 
-Control de Versiones
+## 📫 ¿Cómo contactarme?
 
-Git
+- ✉️ **Correo:** [franjlucuix@gmail.com](mailto:franjlucuix@gmail.com)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/francisco-lucuix](https://www.linkedin.com/in/francisco-lucuix)  
 
-GitHub
+---
 
-💼 Proyecto Destacado: Full-Stack para negocio musical
-
-📌 Proyecto completado y desplegado en producción
-
-Desarrollo de una aplicación full-stack para una tienda musical, con Angular (frontend) y Spring Boot (backend).
-El proyecto está completamente funcional y desplegado usando Docker + AWS, e incluye:
-
-✔️ Autenticación segura con JWT
-
-✔️ Visualización de tiendas en un mapa interactivo
-
-✔️ Gestión completa de productos, usuarios y pedidos
-
-✔️ Chat de soporte en tiempo real (WebSockets + STOMP)
-
-✔️ Envío de emails automáticos
-
-✔️ Panel de administración y área privada de usuario
-
-✔️ API REST documentada y arquitectura profesional
-
-🔗 Proyecto en producción: https://nuevo.juliovera.es
-
-🎯 Objetivos
-
-Mi enfoque principal está en Java y Spring Boot, pero también me motiva seguir ampliando mis conocimientos en backend, arquitecturas modernas, testing y buenas prácticas.
-Mi objetivo es crecer como backend developer y aportar valor real en equipos de desarrollo.
-
-📫 ¿Cómo contactarme?
-
-✉️ Correo: franjlucuix@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/francisco-lucuix
-
-✨ Siempre abierto a nuevas oportunidades y proyectos interesantes dentro del mundo del desarrollo.
+✨ *Siempre abierto a nuevas oportunidades y proyectos interesantes dentro del mundo del desarrollo.*
