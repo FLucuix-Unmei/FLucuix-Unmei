@@ -7,28 +7,28 @@ Me encanta resolver problemas complejos y seguir aprendiendo mientras colaboro e
 
 ## 🛠️ Tecnologías
 
-Frontend
+Frontend:
 Angular
 HTML5, CSS3, SCSS
 TypeScript, JavaScript
 
-Backend
+Backend:
 Java con Spring Boot
 PHP con CodeIgniter
 Python con Django
 
-Bases de Datos
+Bases de Datos:
 MySQL
 PostgreSQL
 Oracle SQL
 
-DevOps / Infraestructura
+DevOps / Infraestructura:
 Docker & Docker Compose
 AWS (EC2, RDS, ECR)
 Caddy (reverse proxy)
 Nginx (servidor web y despliegue frontend)
 
-Control de Versiones
+Control de Versiones:
 Git
 GitHub  
 
